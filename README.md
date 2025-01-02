@@ -3,7 +3,7 @@
 
 > [!NOTE]  
 > Seek And Be Found!
-> .[!Note].
+> [!Note].
 > https://theghostsofcicada.wordpress.com/2022/06/09/mozart-dracula/
  
  - ### Table Of Content
