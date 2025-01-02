@@ -6,7 +6,7 @@
   - [ ] Port cicada stuff into here from Q project
 
  - ### Contribution
-Feel free to submit issues or pull requests to enhance the project.
+  - Feel free to submit issues or pull requests to enhance the project.
 
 1. Fork the repository.
 2. Clone the repository to your local machine:
