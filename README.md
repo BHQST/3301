@@ -2,8 +2,11 @@
 
 ![Logo](Logo.jpg)
 
-- ### To Do
-  - [ ] Port cicada stuff into here from Q project
+ - ### Table Of Content
+
+ - ### To Do
+  - [ ] Port cicada stuff into here from Q project.
+  - [ ] Get the tablenof contents together.
 
  - ### Contribution
   - Feel free to submit issues or pull requests to enhance the project.
