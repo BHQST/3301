@@ -18,7 +18,7 @@
   <a href="#Description">Description</a> •
   <a href="#Contribution">Contribution</a> •
   <a href="#License">License</a> •
-  <a href="#Contact">Contact</a> •
+  <a href="#Contact">Contact</a> 
 </p>
 
  - ### Description
