@@ -19,5 +19,8 @@ cd 3301
 5. Push to the branch (git push origin feature-branch).
 6. Open a pull request.
 
+## License
+ - See the [LICENSE](LINCENSE) file for details.
+
 ## Contact
 - For questions or feedback, contact Ghost Squad at theforgedesign@protonmail.com
