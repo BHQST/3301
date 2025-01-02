@@ -6,7 +6,10 @@
 
 > [!NOTE]
 > https://theghostsofcicada.wordpress.com/2022/06/09/mozart-dracula/
- 
+
+> [!WARNING]
+> It is on the inside!
+
  - ### Table Of Content
 
  - ### To Do
