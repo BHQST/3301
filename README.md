@@ -14,10 +14,20 @@
 > Protect your DNA
 
  - ### Table Of Content
+   <p align="center">
+  <a href="#Description">Description</a> •
+  <a href="#Contribution">Contribution</a> •
+  <a href="#License">License</a> •
+  <a href="#Contact">Contact</a> •
+</p>
+
+ - ### Description
+   - All things cicada
 
  - ### To Do
   - [ ] Port cicada stuff into here from Q project.
   - [ ] Get the table of contents together.
+  - [ ] Clean up Description 
 
  - ### Contribution
   - Feel free to submit issues or pull requests to enhance the project.
