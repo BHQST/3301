@@ -2,10 +2,10 @@
 
 ![Logo](Logo.jpg)
 
-- ## To Do
+- ### To Do
   - [ ] Port cicada stuff into here from Q project
 
-## Contribution
+ - ### Contribution
 Feel free to submit issues or pull requests to enhance the project.
 
 1. Fork the repository.
@@ -19,8 +19,8 @@ cd 3301
 5. Push to the branch (git push origin feature-branch).
 6. Open a pull request.
 
-## License
+ - ### License
  - See the [LICENSE](LINCENSE) file for details.
 
-## Contact
-- For questions or feedback, contact Ghost Squad at theforgedesign@protonmail.com
+ - ### Contact
+  - For questions or feedback, contact Ghost Squad at theforgedesign@protonmail.com
