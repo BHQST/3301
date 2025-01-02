@@ -8,7 +8,7 @@
 
  - ### To Do
   - [ ] Port cicada stuff into here from Q project.
-  - [ ] Get the tablenof contents together.
+  - [ ] Get the table of contents together.
 
  - ### Contribution
   - Feel free to submit issues or pull requests to enhance the project.
