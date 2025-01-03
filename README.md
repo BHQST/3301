@@ -54,7 +54,8 @@
 ***
 
 <h1 align="center">Contribution</h1>
-  - Feel free to submit issues or pull requests to enhance the project.
+
+- Feel free to submit issues or pull requests to enhance the project.
 
 1. Fork the repository.
 2. Clone the repository to your local machine:
@@ -76,4 +77,5 @@ cd 3301
 ***
 
 <h1 align="center">Contact</h1>
-• For questions or feedback, contact Ghost Squad at theforgedesign@protonmail.com
+
+- For questions or feedback, contact Ghost Squad at theforgedesign@protonmail.com.
