@@ -70,7 +70,8 @@ cd 3301
 ***
 
 <h1 align="center">License</h1>
- • See the [LICENSE](LICENSE) file for details.
+
+- See the [LICENSE](LICENSE) file for details.
 
 ***
 
