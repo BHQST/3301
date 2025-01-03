@@ -1,3 +1,17 @@
+<p align="center">
+ <a
+![GitHub Repo stars](https://img.shields.io/github/stars/BHQST/3301)
+  
+![GitHub forks](https://img.shields.io/github/forks/BHQST/3301)
+![GitHub watchers](https://img.shields.io/github/watchers/BHQST/3301)
+![GitHub branch status](https://img.shields.io/github/checks-status/BHQST/3301/main)
+![GitHub contributors](https://img.shields.io/github/contributors-anon/BHQST/3301)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/BHQST/3301/total)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/BHQST/3301)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/BHQST/3301)
+ </a>
+</p>
+
 <h1 id="centered-header" align="center">$${\color{green}3301}$$</h1>
 
 ![Logo](Logo.jpg)
