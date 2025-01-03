@@ -66,7 +66,7 @@
   - [ ] Get the table of contents together.
   - [ ] Clean up Description.
   - [ ] Import LP notes.
-  - [ ] Import  ewer puzzles people have missed chasing pgp.
+  - [ ] Import newer puzzles people have missed chasing pgp.
 
 ***
 
