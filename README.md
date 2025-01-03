@@ -68,6 +68,7 @@
   - [ ] Clean up Description.
   - [ ] Import LP notes.
   - [ ] Import newer puzzles people have missed chasing pgp.
+  - [ ] Each puzzle will have python scripts to help solvers, will need to gather the resources and and link from tools. 
 
 ***
 
