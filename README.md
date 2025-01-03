@@ -30,14 +30,20 @@
 ***
 
 <h1 align="center">Table Of Content</h1>
+
 <p align="center">
-  <a href="#Description">Description</a> •
-  <a href="#Community">Community </a> •
-  <a href="#Work List">Work List</a> • 
- <a
- href="#Contribution">Contribution</a> • <a href="#Credits">Credits</a> •
-  <a href="#License">License</a> •
-  <a href="#Contact">Contact</a> 
+  <details>
+    <summary>Click to Expand</summary>
+    <p align="center">
+      <a href="#Description">Description</a> •
+      <a href="#Community">Community</a> •
+      <a href="#Work List">Work List</a> •
+      <a href="#Contribution">Contribution</a> •
+      <a href="#Credits">Credits</a> •
+      <a href="#License">License</a> •
+      <a href="#Contact">Contact</a>
+    </p>
+  </details>
 </p>
 
 ***
