@@ -25,15 +25,21 @@
   <a href="#Contact">Contact</a> 
 </p>
 
- - ### Description
+***
+
+<h1 align="center">Discription</h1>
    - All things cicada
+
+***
 
  - ### To Do
   - [ ] Port cicada stuff into here from Q project.
   - [ ] Get the table of contents together.
   - [ ] Clean up Description 
 
- - ### Contribution
+***
+
+<h1 align="center">Contribution</h1>
   - Feel free to submit issues or pull requests to enhance the project.
 
 1. Fork the repository.
@@ -47,8 +53,12 @@ cd 3301
 5. Push to the branch (git push origin feature-branch).
 6. Open a pull request.
 
- - ### License
+***
+
+<h1 align="center">License</h1>
  - See the [LICENSE](LINCENSE) file for details.
 
- - ### Contact
+***
+
+<h1 align="center">Contact</h1>
   - For questions or feedback, contact Ghost Squad at theforgedesign@protonmail.com
