@@ -56,6 +56,7 @@
 
 <h1 align="center">Community</h1>
 
+- There is a community board set up for users to discuss the ongoing project of Cicada puzzles.
 - Have ideas or questions? [Join the Discussion](https://github.com/BHQST/3301/discussions) to connect with others and share your thoughts!
 
 ***
