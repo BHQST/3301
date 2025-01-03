@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 <p align="center">
  <a
 ![GitHub Repo stars](https://img.shields.io/github/stars/BHQST/3301)
@@ -82,4 +84,4 @@ cd 3301
 
 - For questions or feedback, contact Ghost Squad at theforgedesign@protonmail.com.
 
-[Back To Top](3301)
+[Back To Top](#top)
