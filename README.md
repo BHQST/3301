@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/github/issues-pr/BHQST/3301" alt="GitHub Pull Requests">
 </p>
 
-
 <h1 id="centered-header" align="center">$${\color{green}3301}$$</h1>
 
 ![Logo](Logo.jpg)
@@ -30,15 +29,10 @@
 
 ***
 
-<h1 align="center">Community</h1>
-
-- Have ideas or questions? [Join the Discussion](https://github.com/BHQST/3301/discussions) to connect with others and share your thoughts!
-
-***
-
 <h1 align="center">Table Of Content</h1>
 <p align="center">
   <a href="#Description">Description</a> •
+  <a href="#Community">Community </a> •
   <a href="#Work List">Work List</a> • 
  <a
  href="#Contribution">Contribution</a> •
@@ -51,6 +45,12 @@
 <h1 align="center">Description</h1>
 
 - All things cicada
+
+***
+
+<h1 align="center">Community</h1>
+
+- Have ideas or questions? [Join the Discussion](https://github.com/BHQST/3301/discussions) to connect with others and share your thoughts!
 
 ***
 
