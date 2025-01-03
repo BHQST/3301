@@ -50,7 +50,7 @@
 
 <h1 align="center">Description</h1>
 
-- All things cicada
+- This project will hold many solves that solvers have either over looked or missed. This will be a community based project. We welcome any additions we may have missed or overlooked ourselves. Sometimes you have to look to the beginning to see the end. ♾️ 
 
 ***
 
