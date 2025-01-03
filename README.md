@@ -84,4 +84,6 @@ cd 3301
 
 - For questions or feedback, contact Ghost Squad at theforgedesign@protonmail.com.
 
-[Back To Top](#top)
+<p align="center">
+  <a href="#top">Back To Top</a>
+</p>
