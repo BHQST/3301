@@ -74,6 +74,12 @@ cd 3301
 
 ***
 
+<h1 align="center">Credits</h1>
+
+- Will give credit to things here.
+  
+***
+
 <h1 align="center">License</h1>
 
 - See the [LICENSE](LICENSE) file for details.
