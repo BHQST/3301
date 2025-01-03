@@ -1,7 +1,5 @@
-<h1 id="centered-header" align="center">$${\color{green}#3301}$$</h1>
+<h1 id="centered-header" align="center">$${\color{green}3301}$$</h1>
 
-
-# $${\color{green}3301}$$
 ![Logo](Logo.jpg)
 
 > [!NOTE]  
