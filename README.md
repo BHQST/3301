@@ -14,7 +14,8 @@
 > [!CAUTION]
 > Protect your DNA
 
- - ### Table Of Content
+
+<h1 align="center">Table Of Content</h1>
 <p align="center">
   <a href="#Description">Description</a> •
   <a href="#To Do">To Do</a> • 
