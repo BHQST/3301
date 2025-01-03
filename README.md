@@ -30,9 +30,13 @@
 > [!CAUTION]
 > Protect your DNA
 
-[Join the Discussion](https://github.com/BHQST/3301/discussions)
+***
 
+<h1 align="center">Community</h1>
 
+- Have ideas or questions? [Join the Discussion](https://github.com/BHQST/3301/discussions) to connect with others and share your thoughts!
+
+***
 
 <h1 align="center">Table Of Content</h1>
 <p align="center">
