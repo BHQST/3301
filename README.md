@@ -32,7 +32,7 @@
 
 ***
 
- - ### To Do
+<h1 align="center">To Do</h1>
   - [ ] Port cicada stuff into here from Q project.
   - [ ] Get the table of contents together.
   - [ ] Clean up Description 
