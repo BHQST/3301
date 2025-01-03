@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/github/issues-pr/BHQST/3301" alt="GitHub Pull Requests">
 </p>
 
-<h1 id="centered-header" align="center" style="font-size: 10em;">$${\color{green}3301}$$</h1>
+<h1 id="centered-header" align="center">$${\color{green}3301}$$</h1> 
 
 ![Logo](Logo.jpg)
 
