@@ -27,7 +27,7 @@
 
 ***
 
-<h1 align="center">Discription</h1>
+<h1 align="center">Description</h1>
    - All things cicada
 
 ***
