@@ -64,7 +64,7 @@
 <h1 align="center">Work List</h1>
 
   - [ ] Port cicada stuff into here from Q project.
-  - [ ] Get the table of contents together.
+  - [x] Get the table of contents together.
   - [ ] Clean up Description.
   - [ ] Import LP notes.
   - [ ] Import newer puzzles people have missed chasing pgp.
