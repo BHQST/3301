@@ -21,6 +21,18 @@
 > [!NOTE]
 > https://theghostsofcicada.wordpress.com/2022/06/09/mozart-dracula/
 
+> [!NOTE]
+> https://theghostsofcicada.wordpress.com/2022/06/09/st-thomas-of-canterbury/
+
+> [!NOTE]
+> https://theghostsofcicada.wordpress.com/2022/06/10/babel-jpg/
+
+> [!NOTE]
+> https://theghostsofcicada.wordpress.com/2022/06/06/war-in-u-crain/
+
+> [!NOTE]
+> https://theghostsofcicada.wordpress.com/2022/07/21/liber-primus/
+
 > [!WARNING]
 > It is on the inside!
 
