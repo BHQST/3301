@@ -94,7 +94,7 @@ cd 3301
 - Will credit each individual that helps maintain this repo.
 - Credit will also be giving to the solvers that have made things easier to put their work out there to make this all possible.
 - If we miss Credit where credit is due please reach out by <p align="center">
-  <a href="#top">Back To Top</a>
+  <a href="Contact">Contact</a>
 </p>
   
 ***
