@@ -58,7 +58,9 @@
 
   - [ ] Port cicada stuff into here from Q project.
   - [ ] Get the table of contents together.
-  - [ ] Clean up Description 
+  - [ ] Clean up Description.
+  - [ ] Import LP notes.
+  - [ ] Import  ewer puzzles people have missed chasing pgp.
 
 ***
 
