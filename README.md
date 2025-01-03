@@ -90,7 +90,12 @@ cd 3301
 
 <h1 align="center">Credits</h1>
 
-- Will give credit to things here.
+- Credit to 3301 amd the community of solvers and seekers alike.
+- Will credit each individual that helps maintain this repo.
+- Credit will also be giving to the solvers that have made things easier to put their work out there to make this all possible.
+- If we miss Credit where credit is due please reach out by <p align="center">
+  <a href="#top">Back To Top</a>
+</p>
   
 ***
 
