@@ -90,10 +90,10 @@ cd 3301
 
 <h1 align="center">Credits</h1>
 
-- Credit to 3301 amd the community of solvers and seekers alike.
+- Credit to 3301 and the community of solvers and seekers alike.
 - Will credit each individual that helps maintain this repo.
 - Credit will also be giving to the solvers that have made things easier to put their work out there to make this all possible.
-- If we miss Credit where credit is due please reach out by href="Contact">Contact
+- If we miss Credit where credit is due please reach out by [Contact](#Contact)
 
   
 ***
