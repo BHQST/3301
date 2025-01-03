@@ -32,7 +32,7 @@
 <h1 align="center">Table Of Content</h1>
 <p align="center">
   <a href="#Description">Description</a> •
-  <a href="#To Do">To Do</a> • 
+  <a href="#Work List">Work List</a> • 
  <a
  href="#Contribution">Contribution</a> •
   <a href="#License">License</a> •
@@ -47,7 +47,7 @@
 
 ***
 
-<h1 align="center">To Do</h1>
+<h1 align="center">Work List</h1>
 
   - [ ] Port cicada stuff into here from Q project.
   - [ ] Get the table of contents together.
