@@ -34,15 +34,15 @@
 <p align="center">
   <details>
     <summary>Click to Expand</summary>
-    <p align="center">
-      <a href="#Description">Description</a> •
-      <a href="#Community">Community</a> •
-      <a href="#Work List">Work List</a> •
-      <a href="#Contribution">Contribution</a> •
-      <a href="#Credits">Credits</a> •
-      <a href="#License">License</a> •
-      <a href="#Contact">Contact</a>
-    </p>
+    <ul align="center">
+      <li><a href="#Description">Description</a></li>
+      <li><a href="#Community">Community</a></li>
+      <li><a href="#Work List">Work List</a></li>
+      <li><a href="#Contribution">Contribution</a></li>
+      <li><a href="#Credits">Credits</a></li>
+      <li><a href="#License">License</a></li>
+      <li><a href="#Contact">Contact</a></li>
+    </ul>
   </details>
 </p>
 
