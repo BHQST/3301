@@ -30,6 +30,9 @@
 > [!CAUTION]
 > Protect your DNA
 
+[Join the Discussion](https://github.com/BHQST/3301/discussions)
+
+
 
 <h1 align="center">Table Of Content</h1>
 <p align="center">
