@@ -35,7 +35,7 @@
   <a href="#Community">Community </a> •
   <a href="#Work List">Work List</a> • 
  <a
- href="#Contribution">Contribution</a> •
+ href="#Contribution">Contribution</a> • <a href="#Credits">Credits</a> •
   <a href="#License">License</a> •
   <a href="#Contact">Contact</a> 
 </p>
