@@ -4,18 +4,15 @@
   <img src="https://img.shields.io/github/stars/BHQST/3301" alt="GitHub Repo stars">
   <img src="https://img.shields.io/github/forks/BHQST/3301" alt="GitHub forks">
   <img src="https://img.shields.io/github/watchers/BHQST/3301" alt="GitHub watchers">
-  <img src="https://img.shields.io/github/checks-status/BHQST/3301/main" alt="GitHub branch status">
   <img src="https://img.shields.io/github/contributors-anon/BHQST/3301" alt="GitHub contributors">
   <img src="https://img.shields.io/github/downloads/BHQST/3301/total" alt="GitHub Downloads">
   <img src="https://img.shields.io/github/issues/BHQST/3301" alt="GitHub Issues">
   <img src="https://img.shields.io/github/issues-pr/BHQST/3301" alt="GitHub Pull Requests">
 </p>
 
-***
-
 <h1 id="centered-header" align="center">$${\color{green}3301}$$</h1> 
 
-![Logo](Logo.jpg)
+![Logo](Logo.png)
 
 > [!NOTE]  
 > Seek And Be Found!
@@ -42,6 +39,7 @@
 > Protect your DNA
 
 ***
+***
 
 <h1 align="center">Table of Contents</h1>
 
@@ -61,11 +59,23 @@
 </div>
 
 ***
+***
 
 <h1 align="center">Description</h1>
 
 - This project will hold many solves that solvers have either over looked or missed. This will be a community based project. We welcome any additions we may have missed or overlooked ourselves. Sometimes you have to look to the beginning to see the end. ♾️ 
 
+<div align="center">
+  <details>
+    <summary>List Of Puzzles</summary>
+    <ul align="left">
+      <li><a href="https://test.com">BBC</a></li>
+      <li><a href="https://test.com">Pi_Mobi</a></li>
+    </ul>
+  </details>
+</div>
+
+***
 ***
 
 <h1 align="center">Community</h1>
@@ -73,6 +83,7 @@
 - There is a community board set up for users to discuss the ongoing project of Cicada puzzles.
 - Have ideas or questions? [Join the Discussion](https://github.com/BHQST/3301/discussions) to connect with others and share your thoughts!
 
+***
 ***
 
 <h1 align="center">Work List</h1>
@@ -85,22 +96,37 @@
   - [ ] Each puzzle will have python scripts to help solvers, will need to gather the resources and and link from tools. 
 
 ***
+***
 
 <h1 align="center">Contribution</h1>
 
-- Feel free to submit issues or pull requests to enhance the project.
+ - We welcome contributions to enhance the project!
+ - Feel free to submit issues or pull requests to enhance the project.
 
-1. Fork the repository.
-2. Clone the repository to your local machine:
+1. **Fork the repository.**
+
+2. **Clone the repository to your local machine:**
 ```bash
 git clone https://github.com/BHQST/3301.git
 cd 3301
 ```
-3. Create a new branch (git checkout -b feature-branch).
-4. Commit your changes (git commit -m "Add a new feature").
-5. Push to the branch (git push origin feature-branch).
-6. Open a pull request.
+3. **Create a new branch  for your future or fix:**
+```bash
+git checkout -b New_Addition
+```
+4. **Make your changes and commit them:**
+```bash
+git commit -m "Add new sauce"
+```
+5. **Push your changes to the new branch:**
+```bash
+git push origin New_Addition
+```
+6. **Open a pull request.**
+ - Go to the repository on GitHub.
+ - Compare your branch with the `main` branch and create a pull request.
 
+***
 ***
 
 <h1 align="center">Credits</h1>
@@ -110,13 +136,14 @@ cd 3301
 - Credit will also be giving to the solvers that have made things easier to put their work out there to make this all possible.
 - If we miss Credit where credit is due please reach out by [Contact](#Contact)
 
-  
+***
 ***
 
 <h1 align="center">License</h1>
 
 - See the [LICENSE](LICENSE) file for details.
 
+***
 ***
 
 <h1 align="center">Contact</h1>
