@@ -59,6 +59,8 @@
       <p><a href="https://github.com/BHQST/3301/tree/main/PI_Mobi">Pi_Mobi</a>
       <p><a 
 href="https://github.com/BHQST/3301/tree/main/Crypto_Puzzle">Crypto_Puzzle</a>   
+      <p><a 
+href="https://github.com/BHQST/3301/tree/main/Sevens_Exposed">Sevens_Exposed</a>
 </p>
     </div>
   </details>
