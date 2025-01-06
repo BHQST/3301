@@ -31,15 +31,17 @@
 <div align="center">
   <details>
     <summary>Click to Expand</summary>
-    <ul style="list-style-type: disc; list-style-position: inside; margin: 0 auto; padding: 0; display: inline-block; text-align: left;">
-      <li><a href="#Description">Description</a></li>
-      <li><a href="#Community">Community</a></li>
-      <li><a href="#Work List">Work List</a></li>
-      <li><a href="#Contribution">Contribution</a></li>
-      <li><a href="#Credits">Credits</a></li>
-      <li><a href="#License">License</a></li>
-      <li><a href="#Contact">Contact</a></li>
-    </ul>
+    <div style="display: inline-block; text-align: left;">
+      <ul style="list-style-type: disc; margin: 0; padding: 0;">
+        <li><a href="#Description">Description</a></li>
+        <li><a href="#Community">Community</a></li>
+        <li><a href="#Work List">Work List</a></li>
+        <li><a href="#Contribution">Contribution</a></li>
+        <li><a href="#Credits">Credits</a></li>
+        <li><a href="#License">License</a></li>
+        <li><a href="#Contact">Contact</a></li>
+      </ul>
+    </div>
   </details>
 </div>
 
