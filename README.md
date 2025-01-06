@@ -31,7 +31,7 @@
 <div align="center">
   <details>
     <summary>Click to Expand</summary>
-    <ul align="left">
+    <ul align="center">
       <li><a href="#Description">Description</a></li>
       <li><a href="#Community">Community</a></li>
       <li><a href="#Work List">Work List</a></li>
