@@ -31,15 +31,15 @@
 <div align="center">
   <details>
     <summary>Click to Expand</summary>
-    <ul>
-      <li style="text-align: center;">Description</li>
-      <li style="text-align: center;">Community</li>
-      <li style="text-align: center;">Work List</li>
-      <li style="text-align: center;">Contribution</li>
-      <li style="text-align: center;">Credits</li>
-      <li style="text-align: center;">License</li>
-      <li style="text-align: center;">Contact</li>
-    </ul>
+    <div style="text-align: center;">
+      &#8226; <a href="#Description">Description</a><br>
+      &#8226; <a href="#Community">Community</a><br>
+      &#8226; <a href="#Work List">Work List</a><br>
+      &#8226; <a href="#Contribution">Contribution</a><br>
+      &#8226; <a href="#Credits">Credits</a><br>
+      &#8226; <a href="#License">License</a><br>
+      &#8226; <a href="#Contact">Contact</a>
+    </div>
   </details>
 </div>
 
