@@ -56,7 +56,10 @@
     <summary>List Of Puzzles</summary>
     <div>
       <p><a href="https://test.com">BBC</a></p>
-      <p><a href="https://test.com">Pi_Mobi</a></p>
+      <p><a href="https://test.com">Pi_Mobi</a>
+      <p><a 
+href="https://test.com">Crypto_Puzzle</a>   
+</p>
     </div>
   </details>
 </div>
