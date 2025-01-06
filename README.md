@@ -53,7 +53,7 @@
 <div align="center">
   <details>
     <summary>List Of Puzzles</summary>
-    <ul align="left">
+    <ul align="center">
       <li><a href="https://test.com">BBC</a></li>
       <li><a href="https://test.com">Pi_Mobi</a></li>
     </ul>
