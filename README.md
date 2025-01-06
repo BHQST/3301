@@ -119,7 +119,7 @@ git push origin New_Addition
 - Credit to 3301 and the community of solvers and seekers alike.
 - Will credit each individual that helps maintain this repo.
 - Credit will also be giving to the solvers that have made things easier to put their work out there to make this all possible.
-- If we miss Credit where credit is due please reach out by [Contact](#Contact)
+- If we miss Credit where credit is due please reach out by [Contact](#Contact) or [Join the Discussion](https://github.com/BHQST/3301/discussions)
 
 ***
 ***
