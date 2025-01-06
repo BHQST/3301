@@ -1,4 +1,4 @@
-# Pi Mobi
+<h1 id="centered-header" align="center">$${\color{green}PI \ Mobi}$$</h1>
 
 ## Description 
  - This branch will hold all of the pi.mobi puzzle assets and solves.
