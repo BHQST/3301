@@ -29,21 +29,20 @@
 <h1 align="center">Table of Contents</h1>
 
 <div align="center">
-
-<div align="center">
   <details>
     <summary>Click to Expand</summary>
-    <ul style="list-style-type: disc; padding: 0; margin: 0; text-align: center;">
-      <li style="display: inline-block; text-align: left;"><a href="#Description">Description</a></li>
-      <li style="display: inline-block; text-align: left;"><a href="#Community">Community</a></li>
-      <li style="display: inline-block; text-align: left;"><a href="#Work List">Work List</a></li>
-      <li style="display: inline-block; text-align: left;"><a href="#Contribution">Contribution</a></li>
-      <li style="display: inline-block; text-align: left;"><a href="#Credits">Credits</a></li>
-      <li style="display: inline-block; text-align: left;"><a href="#License">License</a></li>
-      <li style="display: inline-block; text-align: left;"><a href="#Contact">Contact</a></li>
+    <ul>
+      <li style="text-align: center;">Description</li>
+      <li style="text-align: center;">Community</li>
+      <li style="text-align: center;">Work List</li>
+      <li style="text-align: center;">Contribution</li>
+      <li style="text-align: center;">Credits</li>
+      <li style="text-align: center;">License</li>
+      <li style="text-align: center;">Contact</li>
     </ul>
   </details>
 </div>
+
 
 ***
 ***
