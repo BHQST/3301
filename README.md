@@ -31,7 +31,7 @@
 <div align="center">
   <details>
     <summary>Click to Expand</summary>
-    <ul style="list-style-position: inside; text-align: center; padding-left: 0;">
+    <ul style="list-style-type: disc; list-style-position: inside; margin: 0 auto; padding: 0; display: inline-block; text-align: left;">
       <li><a href="#Description">Description</a></li>
       <li><a href="#Community">Community</a></li>
       <li><a href="#Work List">Work List</a></li>
@@ -42,6 +42,7 @@
     </ul>
   </details>
 </div>
+
 
 ***
 ***
