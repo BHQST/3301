@@ -53,13 +53,12 @@
 <div align="center">
   <details>
     <summary>List Of Puzzles</summary>
-    <ul style="list-style-type: none; padding-left: 0; text-align: center;">
-      <li><a href="https://test.com">BBC</a></li>
-      <li><a href="https://test.com">Pi_Mobi</a></li>
-    </ul>
+    <div>
+      <p><a href="https://test.com">BBC</a></p>
+      <p><a href="https://test.com">Pi_Mobi</a></p>
+    </div>
   </details>
 </div>
-
 
 ***
 ***
