@@ -1,7 +1,9 @@
-# Sevens Exposed
 
+
+<h1 id="centered-header" align="center">$${\color{green}Sevens \ Exposed}$$</h1>
+ 
 ## Description 
- - This branch will hold all of the sevens exposed puzzle assets and solves.
+- This branch will hold all of the sevens exposed puzzle assets and solves.
 
  - april 16,2017
 
