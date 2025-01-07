@@ -1,10 +1,7 @@
 <a id="top"></a>
 <h1 id="centered-header" align="center">$${\color{green}Sevens \ Exposed}$$</h1>
 
-***
-***
-
-## Description 
+<h2 align="center">Description</h2>
 - This branch will hold all of the sevens exposed puzzle assets and solves.
 
  - april 16,2017
