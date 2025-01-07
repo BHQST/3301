@@ -1,6 +1,6 @@
 <a id="top"></a>
-***
 <h1 id="centered-header" align="center">$${\color{green}Sevens \ Exposed}$$</h1>
+
 ***
 ***
 
