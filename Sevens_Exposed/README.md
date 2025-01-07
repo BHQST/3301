@@ -1,5 +1,3 @@
-
-
 <h1 id="centered-header" align="center">$${\color{green}Sevens \ Exposed}$$</h1>
  
 ## Description 
@@ -161,5 +159,5 @@ Elsa ~ 628
 
 ### Work List
 - [ ] Gather assets from archive and prep to bring in to Sevens Exposed branch.
-- [ ] Port the notes into README.md
+- [x] Port the notes into README.md
 
