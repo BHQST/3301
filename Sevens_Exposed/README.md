@@ -1,5 +1,9 @@
+<a id="top"></a>
 <h1 id="centered-header" align="center">$${\color{green}Sevens \ Exposed}$$</h1>
- 
+
+***
+***
+
 ## Description 
 - This branch will hold all of the sevens exposed puzzle assets and solves.
 
@@ -157,7 +161,16 @@ june 29,2017
 
 Elsa ~ 628
 
+***
+***
+
 ### Work List
 - [ ] Gather assets from archive and prep to bring in to Sevens Exposed branch.
 - [x] Port the notes into README.md
 
+***
+***
+
+<p align="center">
+  <a href="#top">Back To Top</a>
+</p>
