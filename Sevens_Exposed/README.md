@@ -161,7 +161,7 @@ Elsa ~ 628
 ***
 ***
 
-### Work List
+<h2 align="center">Work List</h2>
 - [ ] Gather assets from archive and prep to bring in to Sevens Exposed branch.
 - [x] Port the notes into README.md
 
