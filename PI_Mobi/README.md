@@ -17,6 +17,16 @@
 
 -  http://31415926535897932384626433832795028841971693993751.mobi
 
+Wlw hccnm pwdwv m ulzia kksgw as npneeij U gfpxg xrv lts wwwhv rj jqdidm ewwyjzsx
+Mcg ervfuba oijfg lwmjs fxbf pi A dcmp bb tumfs as Azvffi zqoppv hlwijp qifvfwo
+Lwmf gj kbmqwwx C Etvt sqh kqbx qwelk xzk Uyymesow lts wzuzsqh gr Vyldrf lw mbch eprw
+Wlwz ri epbm fseyoho W Xaqk la gbfb hh wlae Omdmztoc az hbpqe xlrsx vixm
+Yww xzk giwlvwuw hagmpaf lkmk ownj ws jhfwxg nsig lkvwmhyy bb tdxzq hbpqe xhil
+Ub nsm odrsv at Hzjvdlxq ffuxxyaqk lts bpiel drv fvy smnv oil fvy Mifllpdq rygwhj
+Wlwes lpjrdomggg mplvllsme gylt gzhq mb C Uywvfwiv ub ygmeddwluba npnaqw
+
+***
+
 all the encrypted stuff seems to be a vigenere cipher with the same key used earlier of **"DEMOULINS"**
 
 1. You're a treasure hunter and, along with your 9 companions, you just discovered  a buried chest with 100 silver coins inside. Amongst your crew there is a strict hierarchy (with you being the most important one) and there are no two equally important  people. You and your companions decided that you are going to propose the  way of distributing the treasure using aforementioned hierarchy. When someone makes his proposal , all of the treasure hunters ( including the proposing one) are voting whether  to accept it or decline it. If at least half of the treasure hunters  vote  "for" , the proposal is accepted and the treasure distributed but if the majority votes "against", the one ,who made the proposal , is killed off and the next one in the hierarchy has the right to make a proposal. The voting order is the same as the proposing order. The goal of each and everyone of the treasure hunters ( you included)  is to gain the highest amount of silver coins possible and survive. Every treasure hunter is equally as smart as the rest and votes in a way allowing him to achieve that goal but if said treasure hunter was to gain 0 silver coins , then he always votes "against".   You , as the most important one , make the first proposal.
