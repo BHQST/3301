@@ -15,7 +15,7 @@
 
 - This branch will hold all of the pi.mobi puzzle assets and solves.
 
-- https://www.youtube.com/watch?app=desktop&v=BVww3t5E60Q&t=42s
+- [https://www.youtube.com/watch?app=desktop&v=BVww3t5E60Q&t=42s](https://www.youtube.com/watch?v=BzA_Le3Iq_w&t=914s)
 
 -  http://31415926535897932384626433832795028841971693993751.mobi
 
