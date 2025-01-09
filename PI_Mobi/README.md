@@ -15,43 +15,52 @@
 
 - This branch will hold all of the pi.mobi puzzle assets and solves.
 
-- [https://www.youtube.com/watch?app=desktop&v=BVww3t5E60Q&t=42s](https://www.youtube.com/watch?v=BzA_Le3Iq_w&t=914s)
+
 
 -  http://31415926535897932384626433832795028841971693993751.mobi
 
 - BM2cSp3oGoQjddTz1YgBiw3h59uNT3v1Hg33.png
 
+- 31415926535897932384626433832795028841971693993751.mobi:80/BM2cSwMJ7SaEji4qU8plisEkVHuHCHhmZgwh.html
+
 - http://ln6vyadk4hv3dnyt.onion/i/1amhajich.png
 
 ***
-
- - http://31415926535897932384626433832795028841971693993751.mobi/home.html
-
- - http://31415926535897932384626433832795028841971693993751.mobi/test.txt
-
-- 31415926535897932384626433832795028841971693993751.mobi:80/BM2cSwMJ7SaEji4qU8plisEkVHuHCHhmZgwh.html
-
+ - **Jan 5, 2016**
+    - https://www.youtube.com/watch?app=desktop&v=BVww3t5E60Q&t=42s
+      - This was the start. Take notice of the user name. Also at the 33 second mark is a QR code.
+      I will link the assets and solves to this `README.md` for solvers and seekers alike to follow along. 
 ***
+ - **Jan 9, 2016**
+ ![Logo](Logo.png)
+    - There's music in the sighing of a reed;
+		There's music in the gushing of a rill;
+		There's music in all things, if men had ears;
+		Their earth is but an echo of the spheres. 
+      - This is from "**Lord Bryon**" a poem.
 
-There's music in the sighing of a reed;
-There's music in the gushing of a rill;
-There's music in all things, if men had ears;
-Their earth is but an echo of the spheres.
-
+    - http://31415926535897932384626433832795028841971693993751.mobi/home.html
+      - This displays a big chunk of hex code that reverts back to a QR code within a .png image.
+      I will try to get it all into this `README.me` but more then likley will need to load raw code into a .txt file for others to follow along.
 ***
-
-Wlw hccnm pwdwv m ulzia kksgw as npneeij U gfpxg xrv lts wwwhv rj jqdidm ewwyjzsx
-Mcg ervfuba oijfg lwmjs fxbf pi A dcmp bb tumfs as Azvffi zqoppv hlwijp qifvfwo
-Lwmf gj kbmqwwx C Etvt sqh kqbx qwelk xzk Uyymesow lts wzuzsqh gr Vyldrf lw mbch eprw
-Wlwz ri epbm fseyoho W Xaqk la gbfb hh wlae Omdmztoc az hbpqe xlrsx vixm
-Yww xzk giwlvwuw hagmpaf lkmk ownj ws jhfwxg nsig lkvwmhyy bb tdxzq hbpqe xhil
-Ub nsm odrsv at Hzjvdlxq ffuxxyaqk lts bpiel drv fvy smnv oil fvy Mifllpdq rygwhj
-Wlwes lpjrdomggg mplvllsme gylt gzhq mb C Uywvfwiv ub ygmeddwluba npnaqw
-
+ - **Jun 26, 2016**
+   -  Wlw hccnm pwdwv m ulzia kksgw as npneeij U gfpxg xrv lts wwwhv rj jqdidm ewwyjzsx
+		Mcg ervfuba oijfg lwmjs fxbf pi A dcmp bb tumfs as Azvffi zqoppv hlwijp qifvfwo
+		Lwmf gj kbmqwwx C Etvt sqh kqbx qwelk xzk Uyymesow lts wzuzsqh gr Vyldrf lw mbch eprw
+		Wlwz ri epbm fseyoho W Xaqk la gbfb hh wlae Omdmztoc az hbpqe xlrsx vixm
+		Yww xzk giwlvwuw hagmpaf lkmk ownj ws jhfwxg nsig lkvwmhyy bb tdxzq hbpqe xhil
+		Ub nsm odrsv at Hzjvdlxq ffuxxyaqk lts bpiel drv fvy smnv oil fvy Mifllpdq rygwhj
+		Wlwes lpjrdomggg mplvllsme gylt gzhq mb C Uywvfwiv ub ygmeddwluba npnaqw
+      - "Translates with vigenere cipher with key of **"DESMOULINS"** the vigenere cipher was french created."
+      Follows a french theme.
+        - **Translation** "The voice ceasd a groan shook my chamber I slept for the cloud of repose returned But morning dawnd heavy upon me I rose to bring my Prince heaven utterd counselHear my counsel O King and send forth thy Generals the command of Heaven is upon thee Then do thou command O King to shut up this Assembly in their final home Let thy soldiers possess this city of rebels that threaten to bathe their feet In the blood of Nobility trampling the heart and the head let the Bastille devourThese rebellious seditious seal them up O Anointed in everlasting chains"
+        - I will link a website for a tool to do the translation, and will link a tool in the `Encryption_Tools` section.
 ***
-
-all the encrypted stuff seems to be a vigenere cipher with the same key used earlier of **"DEMOULINS"**
-
+ - **Jul 24, 2016**
+   - http://31415926535897932384626433832795028841971693993751.mobi/3301
+	 title "seek"
+	 http://ln6vyadk4hv3dnyt.onion/i/1amhajich.png
+   - http://31415926535897932384626433832795028841971693993751.mobi/test.txt This was a test that you emailed the answers to the test to an email below.
 1. You're a treasure hunter and, along with your 9 companions, you just discovered  a buried chest with 100 silver coins inside. Amongst your crew there is a strict hierarchy (with you being the most important one) and there are no two equally important  people. You and your companions decided that you are going to propose the  way of distributing the treasure using aforementioned hierarchy. When someone makes his proposal , all of the treasure hunters ( including the proposing one) are voting whether  to accept it or decline it. If at least half of the treasure hunters  vote  "for" , the proposal is accepted and the treasure distributed but if the majority votes "against", the one ,who made the proposal , is killed off and the next one in the hierarchy has the right to make a proposal. The voting order is the same as the proposing order. The goal of each and everyone of the treasure hunters ( you included)  is to gain the highest amount of silver coins possible and survive. Every treasure hunter is equally as smart as the rest and votes in a way allowing him to achieve that goal but if said treasure hunter was to gain 0 silver coins , then he always votes "against".   You , as the most important one , make the first proposal.
 What way of distributing are you going to propose to achieve the goal?
 Substantiate your answer.
@@ -92,6 +101,8 @@ ANSWERS: send to (8digitdate)@protonmail.com
 
 ***
 
+ - This was the reply that solver were sent.
+
 http://ln6vyadk4hv3dnyt.onion/i/1aq2rkesm.jpg
 
 YLQ FRUS YILE ZRMK
@@ -112,6 +123,9 @@ Good luck
 <h2 align="center">Work List</h2>
 
 - [ ] Gather assets from archive and prep to bring in to pi mobi branch
+- [ ] Finish the markdown
+- [ ] Locate the images from the dark web. Archive copys have been tampered with and are not original.
+- [ ] Write up the history stand-point of this puzzle.
 
 ***
 ***
