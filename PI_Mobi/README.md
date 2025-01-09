@@ -11,7 +11,7 @@
 
 - **Pi Mobi** was the last puzzle that used **PGP** elements in it.
 
-- **Pi Mobi** was created before Z3301 aka richard todd miller.
+- **Pi Mobi** was created before Z3301 aka richard todd miller's involvement with puzzle creation.
 
 - This branch will hold all of the pi.mobi puzzle assets and solves.
 
