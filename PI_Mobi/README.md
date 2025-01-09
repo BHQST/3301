@@ -17,6 +17,15 @@
 
 -  http://31415926535897932384626433832795028841971693993751.mobi
 
+***
+
+There's music in the sighing of a reed;
+There's music in the gushing of a rill;
+There's music in all things, if men had ears;
+Their earth is but an echo of the spheres.
+
+***
+
 Wlw hccnm pwdwv m ulzia kksgw as npneeij U gfpxg xrv lts wwwhv rj jqdidm ewwyjzsx
 Mcg ervfuba oijfg lwmjs fxbf pi A dcmp bb tumfs as Azvffi zqoppv hlwijp qifvfwo
 Lwmf gj kbmqwwx C Etvt sqh kqbx qwelk xzk Uyymesow lts wzuzsqh gr Vyldrf lw mbch eprw
