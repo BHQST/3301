@@ -32,7 +32,7 @@
       I will link the assets and solves to this `README.md` for solvers and seekers alike to follow along. 
 ***
  - **Jan 9, 2016**
- ![Logo](Logo.png)
+ ![Logo](Assets/BM2cSp3oGoQjddTz1YgBiw3h59uNT3v1Hg33.png)
     - There's music in the sighing of a reed;
 		There's music in the gushing of a rill;
 		There's music in all things, if men had ears;
