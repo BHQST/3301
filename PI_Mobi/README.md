@@ -24,7 +24,7 @@
 - http://ln6vyadk4hv3dnyt.onion/i/1amhajich.png
 
 - https://www.youtube.com/watch?v=20zQdkZKMy4&feature=youtu.be
-  
+
 ***
  - **Jan 5, 2016**
     - https://www.youtube.com/watch?app=desktop&v=BVww3t5E60Q&t=42s
@@ -32,29 +32,46 @@
       I will link the assets and solves to this `README.md` for solvers and seekers alike to follow along. 
 ***
  - **Jan 9, 2016**
- ![Logo](Assets/BM2cSp3oGoQjddTz1YgBiw3h59uNT3v1Hg33.png)
-    - There's music in the sighing of a reed;
-		There's music in the gushing of a rill;
-		There's music in all things, if men had ears;
-		Their earth is but an echo of the spheres. 
-      - This is from "**Lord Bryon**" a poem.
+ ![Seek](Assets/BM2cSp3oGoQjddTz1YgBiw3h59uNT3v1Hg33.png)
 
-    - http://31415926535897932384626433832795028841971693993751.mobi/home.html
-      - This displays a big chunk of hex code that reverts back to a QR code within a .png image.
-      I will try to get it all into this `README.me` but more then likley will need to load raw code into a .txt file for others to follow along.
+<div align="center">
+
+There's music in the sighing of a reed;
+There's music in the gushing of a rill;
+There's music in all things, if men had ears;
+Their earth is but an echo of the spheres.
+
+<u>***This is from*** "**Lord Bryon**" ***a poem***.</u>
+
+</div>     
+
+![Always watching](Solves/hidden_cicada_rgb.png)
+
+  - http://31415926535897932384626433832795028841971693993751.mobi/home.html
+    - This displays a big chunk of hex code that reverts back to a .png. The hint was the title of the page
+  LesTriosMages.png a refference to the 3 mages. The raw data can be found in   [`Assets`](https://github/BHQST/3301/Assets/LesTriosMages.txt) for followers looking to learn a skill. You can also go directly to the image [`LesTriosMages.png`](Assets/LesTroisMages.png). 
+
+![LesTriosMages](Assets/LesTroisMages.png)
+
 ***
  - **Jun 26, 2016**
-   -  Wlw hccnm pwdwv m ulzia kksgw as npneeij U gfpxg xrv lts wwwhv rj jqdidm ewwyjzsx
-		Mcg ervfuba oijfg lwmjs fxbf pi A dcmp bb tumfs as Azvffi zqoppv hlwijp qifvfwo
-		Lwmf gj kbmqwwx C Etvt sqh kqbx qwelk xzk Uyymesow lts wzuzsqh gr Vyldrf lw mbch eprw
-		Wlwz ri epbm fseyoho W Xaqk la gbfb hh wlae Omdmztoc az hbpqe xlrsx vixm
-		Yww xzk giwlvwuw hagmpaf lkmk ownj ws jhfwxg nsig lkvwmhyy bb tdxzq hbpqe xhil
-		Ub nsm odrsv at Hzjvdlxq ffuxxyaqk lts bpiel drv fvy smnv oil fvy Mifllpdq rygwhj
-		Wlwes lpjrdomggg mplvllsme gylt gzhq mb C Uywvfwiv ub ygmeddwluba npnaqw
-      - "Translates with vigenere cipher with key of **"DESMOULINS"** the vigenere cipher was french created."
-      Follows a french theme.
-        - **Translation** "The voice ceasd a groan shook my chamber I slept for the cloud of repose returned But morning dawnd heavy upon me I rose to bring my Prince heaven utterd counselHear my counsel O King and send forth thy Generals the command of Heaven is upon thee Then do thou command O King to shut up this Assembly in their final home Let thy soldiers possess this city of rebels that threaten to bathe their feet In the blood of Nobility trampling the heart and the head let the Bastille devourThese rebellious seditious seal them up O Anointed in everlasting chains"
-        - I will link a website for a tool to do the translation, and will link a tool in the `Encryption_Tools` section.
+<div align="center">
+Wlw hccnm pwdwv m ulzia kksgw as npneeij U gfpxg xrv lts wwwhv rj jqdidm ewwyjzsx
+Mcg ervfuba oijfg lwmjs fxbf pi A dcmp bb tumfs as Azvffi zqoppv hlwijp qifvfwo
+Lwmf gj kbmqwwx C Etvt sqh kqbx qwelk xzk Uyymesow lts wzuzsqh gr Vyldrf lw mbch eprw
+Wlwz ri epbm fseyoho W Xaqk la gbfb hh wlae Omdmztoc az hbpqe xlrsx vixm
+Yww xzk giwlvwuw hagmpaf lkmk ownj ws jhfwxg nsig lkvwmhyy bb tdxzq hbpqe xhil
+Ub nsm odrsv at Hzjvdlxq ffuxxyaqk lts bpiel drv fvy smnv oil fvy Mifllpdq rygwhj
+Wlwes lpjrdomggg mplvllsme gylt gzhq mb C Uywvfwiv ub ygmeddwluba npnaqw
+</div>    
+
+- <u>"Translates with vigenere cipher with key of **"DESMOULINS"** the vigenere cipher was french created. Follows a french theme."</u>
+      
+    - **Translation** "The voice ceasd a groan shook my chamber I slept for the cloud of repose returned But morning dawnd heavy upon me I rose to bring my Prince heaven utterd counselHear my counsel O King and send forth thy Generals the command of Heaven is upon thee Then do thou command O King to shut up this Assembly in their final home Let thy soldiers possess this city of rebels that threaten to bathe their feet In the blood of Nobility trampling the heart and the head let the Bastille devourThese rebellious seditious seal them up O Anointed in everlasting chains"
+          - [`Encryption_Tools`](https://github/BHQST/Encryption_Tools) holds a python script for the tech people.
+          - For the non tech people you can also use https://decode.fr/en
+
+
 ***
  - **Jul 24, 2016**
    - http://31415926535897932384626433832795028841971693993751.mobi/3301
