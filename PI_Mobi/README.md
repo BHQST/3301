@@ -51,7 +51,7 @@ Their earth is but an echo of the spheres.
     - This displays a big chunk of hex code that reverts back to a .png. The hint was the title of the page
   LesTriosMages.png a refference to the 3 mages. The raw data can be found in   [`Assets`](https://github/BHQST/3301/Assets/LesTriosMages.txt) for followers looking to learn a skill. You can also go directly to the image [`LesTriosMages.png`](Solves/hex.png). 
 
-![LesTriosMages](Assets/LesTroisMages.png)
+![Hex Image](Assets/LesTroisMages.png)
 
 ***
  - **Jun 26, 2016**
