@@ -30,7 +30,7 @@
   - Without :80 port there was **"322.png"** and page title was 322. Of a solver has this please upload to the github.
   - There was also some text in the source.
     - ἔνδον τοῦ πύργου, οὗ ὁ ἄνεμος ἐπιβουλεύει σὺν τὰ *****τοῦ/τῆϛ***** Çelebi πτερὰ, κεῖται πλίνθος ἣ ἐνέπει μῦθον, εὖτε ἡ θεωρία διαμένει. Ζητοὺ καὶ εὑρίσκου.
-      - It is Greek. Will add translation at a later time. 
+      - It is Greek. "Inside the tower, where the wind whispers with the wings of Çelebi, lies a brick that embodies myth, or theory resides. Seek and you will find."
 
 ***
 <h4 align="center">Jan 5, 2016</h4>
