@@ -79,7 +79,7 @@ href="https://github.com/BHQST/3301/tree/main/Sevens_Exposed">Sevens_Exposed</a>
 
 <h1 align="center">Work List</h1>
 
-  - [ ] Port cicada stuff into here from Q project.
+  - [x] Port cicada stuff into here from Q project.
   - [x] Get the table of contents together.
   - [ ] Clean up Description.
   - [ ] Import LP notes.
