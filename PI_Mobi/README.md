@@ -201,6 +201,10 @@ http://ln6vyadk4hv3dnyt.onion/i/1aq2rkesm.jpg
 (3301 x 3301 in size)
 ![1aq2rkesm](Assets/1aq2rkesm.jpg)
 **All four works are of william blake. A hint back to cipher, think four sqaure. Also The email says the keys are right in front of you. "key's" not key.**
+ - "The Tyger"
+ - “The Lamb”
+ - "Marriage of Heaven and Hell"
+ - "The Good and Evil Angels"
 
 YLQ FRUS YILE ZRMK
 OBQOY KSFRU ISMGME TAYFGZES SDCP KATMRFN
