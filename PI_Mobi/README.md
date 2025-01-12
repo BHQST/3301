@@ -203,7 +203,7 @@ http://ln6vyadk4hv3dnyt.onion/i/1aq2rkesm.jpg
 **All four works are of william blake. A hint back to cipher, think four sqaure. Also The email says the keys are right in front of you. "key's" not key.**
  - Top-Left: "The Good and Evil Angels"(1795)(Painting)
  - Top-Right: "The Tyger"(1794)(Poem)
- - Bottom-Left: “The Lamb”
+ - Bottom-Left: “The Lamb”(1789)(Poem from "Songs of Innocence")
  - Bottom-Right: "Marriage of Heaven and Hell"
 
 
