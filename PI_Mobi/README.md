@@ -5,10 +5,10 @@
 ![Logo](Logo.png)
 
 ***
-***
 
 <h2 align="center">Description</h2>
 
+***
 - **Pi Mobi** was the last puzzle that used **PGP** elements in it.
 
 - **Pi Mobi** was created before Z3301 aka richard todd miller's involvement with puzzle creation.
@@ -17,21 +17,58 @@
 
 -  http://31415926535897932384626433832795028841971693993751.mobi
 
-- BM2cSp3oGoQjddTz1YgBiw3h59uNT3v1Hg33.png
-
-- 31415926535897932384626433832795028841971693993751.mobi:80/BM2cSwMJ7SaEji4qU8plisEkVHuHCHhmZgwh.html
-
-- http://ln6vyadk4hv3dnyt.onion/i/1amhajich.png
+- http://31415926535897932384626433832795028841971693993751.mobi:80/BM2cSwMJ7SaEji4qU8plisEkVHuHCHhmZgwh.html
 
 - https://www.youtube.com/watch?v=20zQdkZKMy4&feature=youtu.be
 
+-  http://31415926535897932384626433832795028841971693993751.mobi/3301.html
+   - **This message was encrypted with playfair cipher with key of tyranny. Still on the french theme.**
+- Not sure if the Bit message part is still live anymore for all the **"BM-"** codes.
+
+- http://31415926535897932384626433832795028841971693993751.mobi/BM2cSwMJ7SaEji4qU8plisEkVHuHCHhmZgwh.html
+  - The BM code is also the same as 
+  - Without :80 port there was **"322.png"** and page title was 322. Of a solver has this please upload to the github.
+  - There was also some text in the source.
+    - ἔνδον τοῦ πύργου, οὗ ὁ ἄνεμος ἐπιβουλεύει σὺν τὰ *****τοῦ/τῆϛ***** Çelebi πτερὰ, κεῖται πλίνθος ἣ ἐνέπει μῦθον, εὖτε ἡ θεωρία διαμένει. Ζητοὺ καὶ εὑρίσκου.
+      - It is Greek. Will add translation at a later time. 
+
 ***
- - **Jan 5, 2016**
-    - https://www.youtube.com/watch?app=desktop&v=BVww3t5E60Q&t=42s
-      - This was the start. Take notice of the user name. Also at the 33 second mark is a QR code.
-      I will link the assets and solves to this `README.md` for solvers and seekers alike to follow along. 
+<h4 align="center">Jan 5, 2016</h4>
+
 ***
- - **Jan 9, 2016**
+- https://www.youtube.com/watch?app=desktop&v=BVww3t5E60Q&t=42s
+    - This was the start. Take notice of the user name. Also at the 33 second mark is a QR code.
+
+![314](Solves/314_qr.png)
+
+- The picture within the QR-Code is **"Birth of Venus"**.
+  - This drawing is by the italian artist **"Sandro Botticelli"**. The painting is sometimes called **"Primavera"**.   
+- The QR code was on screen for 3/10th's of a second.
+  - See Circled in green below.
+
+![314](Solves/314_33-04.png)
+![314](Solves/314_33-05.png)
+![314](Solves/314_33-06.png)
+
+- The QR code scans to some text.
+  - Gen 1:1 In the beginning God created the heaven and the earth. 
+  - 31415926535897932384626433832795028841971693993751.MOBI 
+  - BM-2cW5qm7K6R8xhoFXuK9ifNARQfeKNFTNQ9
+  - BM-2cUYDhBNPTmrwTErf5DfqrnXPfQyCZwrM6
+    - This was also on the picture Built from the hex code.
+  - **EXTRACT YOURSELF FROM THE CONFINES OF YOUR COCOON, AND EMERGE, FALL AWAKE. OBSTRUCT INJUSTICE**
+
+![314](Solves/314.png)
+- The image below was in the background of video. 
+It is on an entrance door in the interior of St. Mary's, there sits **"Dance of Death"** painted by Vincent de Kastav,1474. This was at the time of the **"French Revolution"**
+- The music is by **"Michael Haydn"** brother of joseph. A play on words, hidden in plain site.
+***
+<h4 align="center">Jan 9, 2016</h4>
+
+
+***
+- BM-2cSp3oGoQjddTz1YgBiw3h59uNT3v1Hg33.png
+  - This was hid in the source of the site.
  ![Seek](Assets/BM2cSp3oGoQjddTz1YgBiw3h59uNT3v1Hg33.png)
 
 <div align="center">
@@ -40,21 +77,31 @@ There's music in the sighing of a reed;
 There's music in the gushing of a rill;
 There's music in all things, if men had ears;
 Their earth is but an echo of the spheres.
-
 <u>***This is from*** "**Lord Bryon**" ***a poem***.</u>
-
 </div>     
 
 ![Always watching](Solves/hidden_cicada_rgb.png)
 
   - http://31415926535897932384626433832795028841971693993751.mobi/home.html
-    - This displays a big chunk of hex code that reverts back to a .png. The hint was the title of the page
-  LesTriosMages.png a refference to the 3 mages. The raw data can be found in   [`Assets`](https://github/BHQST/3301/Assets/LesTriosMages.txt) for followers looking to learn a skill. You can also go directly to the image [`LesTriosMages.png`](Solves/hex.png). 
+    - This displays a big chunk of hex code that reverts back to a .png. The hint was the title of the page LesTriosMages.png a refference to the 3 mages. The raw data can be found in [`Assets`](https://github/BHQST/3301/Assets/LesTriosMages.txt) for followers looking to learn a skill. You can also go directly to the image [`hex.png`](Solves/hex.png). 
 
-![Hex Image](Assets/LesTroisMages.png)
+![LesTriosMages](Solves/hex.png)
+ 
+  - http://popfilesxuru7lsr.onion/~C3301/despierta.mp4
+    - My archive copy is corrupted. If any solvers have this please contribute to this github.
+  - BM-2cUYDhBNPTmrwTErf5DfqrnXPfQyCZwrM6
+    - This also was in 314 on youtube. its in the QR-code.
+  - BM-2cSwMJ7SaEji4qU8plisEkVHuHCHhmZgwh
+    - Leads to this link. http://31415926535897932384626433832795028841971693993751.mobi:80/BM2cSwMJ7SaEji4qU8plisEkVHuHCHhmZgwh.html
+***
+<h4 align="center">Jun 26, 2016</h4>
 
 ***
- - **Jun 26, 2016**
+ - The site changed and now displayed this ciphered message.
+ - Hidden note within site source. **"Something ends, something begins. A date in history is the epoch of your journey. Eight numbers stand between you and the answers. Solve the test and you will be found."** There was also an onion link 	 http://ln6vyadk4hv3dnyt.onion/i/1amhajich.png
+     - I no longer have the original. Will show the image and the what was involved with hiding meta-data in jpg form till another seeker or solver shares original file. The picture is **"Portraits des impatiaux, des moderes, des moderateures, autre fois dits les aristocrates. (1789) A french revolutionary illustration showing the two faces of the aristocracy."** In english it translates to portraits of the impartials, the moderates, the moderators formaly known as the aristocrates. 
+![1amhajich](Assets/1amhajich.jpg)
+
 <div align="center">
 Wlw hccnm pwdwv m ulzia kksgw as npneeij U gfpxg xrv lts wwwhv rj jqdidm ewwyjzsx
 Mcg ervfuba oijfg lwmjs fxbf pi A dcmp bb tumfs as Azvffi zqoppv hlwijp qifvfwo
@@ -71,13 +118,17 @@ Wlwes lpjrdomggg mplvllsme gylt gzhq mb C Uywvfwiv ub ygmeddwluba npnaqw
           - [`Encryption_Tools`](https://github/BHQST/Encryption_Tools) holds a python script for the tech people.
           - For the non tech people you can also use https://decode.fr/en
 
-
 ***
- - **Jul 24, 2016**
-   - http://31415926535897932384626433832795028841971693993751.mobi/3301
+<h4 align="center">Jul 24, 2016</h4>
+
+ ***
+  - http://31415926535897932384626433832795028841971693993751.mobi/3301
 	 title "seek"
-	 http://ln6vyadk4hv3dnyt.onion/i/1amhajich.png
-   - http://31415926535897932384626433832795028841971693993751.mobi/test.txt This was a test that you emailed the answers to the test to an email below.
+    - The picture is in runes and also says SEEK like the title.
+   ![Seek](Assets/seek.jpg)
+
+  - http://31415926535897932384626433832795028841971693993751.mobi/test.txt This was a test that you emailed the answers to the test to an email below.
+
 1. You're a treasure hunter and, along with your 9 companions, you just discovered  a buried chest with 100 silver coins inside. Amongst your crew there is a strict hierarchy (with you being the most important one) and there are no two equally important  people. You and your companions decided that you are going to propose the  way of distributing the treasure using aforementioned hierarchy. When someone makes his proposal , all of the treasure hunters ( including the proposing one) are voting whether  to accept it or decline it. If at least half of the treasure hunters  vote  "for" , the proposal is accepted and the treasure distributed but if the majority votes "against", the one ,who made the proposal , is killed off and the next one in the hierarchy has the right to make a proposal. The voting order is the same as the proposing order. The goal of each and everyone of the treasure hunters ( you included)  is to gain the highest amount of silver coins possible and survive. Every treasure hunter is equally as smart as the rest and votes in a way allowing him to achieve that goal but if said treasure hunter was to gain 0 silver coins , then he always votes "against".   You , as the most important one , make the first proposal.
 What way of distributing are you going to propose to achieve the goal?
 Substantiate your answer.
@@ -114,13 +165,32 @@ Substantiate your answers.
  
 11. Zlsf ri ambhoi kffcgm sgu exfsl nwzhoiluba eprau tsfv nz madlkzfshxmal?
 
-ANSWERS: send to (8digitdate)@protonmail.com
+**ANSWERS: send to (8digitdate)@protonmail.com**
+
+- Take note how the encrypted messages are in prime locations.
+- These are ecncrypted with a vigenere cipher.
+  - Passphrase is the same as the first encrypted message above. **"DESMOULINS"**
+3. Zlsf auvmf qry , qai?
+  - What makes you, you? 
+5. Gswe gifvq zdthqb cq vb wqxafm cd xewviff hi pfcwumwzqy tb? Rpspsub.
+  - Does sound happen if no entity is present to experience it? Explain.
+7. Gixuby epr orvv "ffoep".
+  - Define the word "truth".
+11. Zlsf ri ambhoi kffcgm sgu exfsl nwzhoiluba eprau tsfv nz madlkzfshxmal?
+  - What do people strive for after completing their path to enlightenment?
 
 ***
 
- - This was the reply that solver were sent.
+ - Here is the content of the emails solvers recieved after sending in the asnwers to test.
+
+Hello
+
+Your test answers have been positively verified
 
 http://ln6vyadk4hv3dnyt.onion/i/1aq2rkesm.jpg
+(3301 x 3301 in size)
+![1aq2rkesm](Assets/1aq2rkesm.jpg)
+**All four works are of william blake. A hint back to cipher, think four sqaure. Also The email says the keys are right in front of you. "key's" not key.**
 
 YLQ FRUS YILE ZRMK
 OBQOY KSFRU ISMGME TAYFGZES SDCP KATMRFN
@@ -135,20 +205,18 @@ The keys are right in front of you
 Good luck
 
 ***
-***
-
 <h2 align="center">Work List</h2>
 
+***
 - [ ] Gather assets from archive and prep to bring in to pi mobi branch
 - [ ] Finish the markdown
 - [ ] Locate the images from the dark web. Archive copys have been tampered with and are not original.
 - [ ] Write up the history stand-point of this puzzle.
-
+- [ ] Check if Bit Messege is still up.
 ***
-***
-
 <h2 align="center">Contribution</h2>
 
+***
  - We welcome contributions to enhance the project!
  - Feel free to submit issues or pull requests to enhance the project.
 
@@ -176,29 +244,30 @@ git push origin New_Addition
  - Compare your branch with the `main` branch and create a pull request.
 
 ***
-***
-
 <h2 align="center">Credits</h2>
 
+***
 - Credit to 3301 and the community of solvers and seekers alike.
 - Will credit each individual that helps maintain this repo.
 - Credit will also be giving to the solvers that have made things easier to put their work out there to make this all possible.
 - If we miss Credit where credit is due please reach out by [Contact](#Contact)
 
 ***
-***
-
 <h2 align="center">License</h2>
+
+***
 
 - See the [LICENSE](LICENSE) file for details.
 
 ***
-***
-
 <h2 align="center">Contact</h2>
+
+***
 
 - For questions or feedback, contact Ghost Squad at theforgedesign@protonmail.com.
 
+***
+***
 <p align="center">
   <a href="#top">Back To Top</a>
 </p>
