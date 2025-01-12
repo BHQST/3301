@@ -14,7 +14,7 @@
 
 ![Logo](Logo.png)
 
-<h4 align="center">Description</h4>
+<h3 align="center">Description</h3>
 
 - **Pi Mobi** was the last puzzle that used **PGP** elements in it.
 
