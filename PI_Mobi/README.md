@@ -14,11 +14,8 @@
 
 ![Logo](Logo.png)
 
-***
-
 <h2 align="center">Description</h2>
 
-***
 - **Pi Mobi** was the last puzzle that used **PGP** elements in it.
 
 - **Pi Mobi** was created before Z3301 aka richard todd miller's involvement with puzzle creation.
