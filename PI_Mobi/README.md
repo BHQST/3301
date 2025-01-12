@@ -42,7 +42,7 @@
 ![314](Solves/314_qr.png)
 
 - The picture within the QR-Code is **"Birth of Venus"**.
-  - This drawing is by the italian artist **"Sandro Botticelli"**. The painting is sometimes called **"Primavera"**.   
+  - This drawing is by the italian artist **"Sandro Botticelli"**.    
 - The QR code was on screen for 3/10th's of a second.
   - See Circled in green below.
 
