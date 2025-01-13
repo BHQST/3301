@@ -204,7 +204,7 @@ http://ln6vyadk4hv3dnyt.onion/i/1aq2rkesm.jpg
  - Top-Left: "The Good and Evil Angels"(1795)(Painting)
  - Top-Right: "The Tyger"(1794)(Poem)
  - Bottom-Left: “The Lamb”(1789)(Poem from "Songs of Innocence")
- - Bottom-Right: "Marriage of Heaven and Hell"
+ - Bottom-Right: "Marriage of Heaven and Hell"(1790-1793)(Book) 
 
 
 YLQ FRUS YILE ZRMK
@@ -220,7 +220,7 @@ The keys are right in front of you
 Good luck
 
 ***
-<h2 align="center">Work List</h2>
+<h3 align="center">Work List</h3>
 
 ***
 - [ ] Gather assets from archive and prep to bring in to pi mobi branch
@@ -229,7 +229,7 @@ Good luck
 - [ ] Write up the history stand-point of this puzzle.
 - [ ] Check if Bit Messege is still up.
 ***
-<h2 align="center">Contribution</h2>
+<h3 align="center">Contribution</h3>
 
 ***
  - We welcome contributions to enhance the project!
@@ -259,7 +259,7 @@ git push origin New_Addition
  - Compare your branch with the `main` branch and create a pull request.
 
 ***
-<h2 align="center">Credits</h2>
+<h3 align="center">Credits</h3>
 
 ***
 - Credit to 3301 and the community of solvers and seekers alike.
@@ -268,14 +268,14 @@ git push origin New_Addition
 - If we miss Credit where credit is due please reach out by [Contact](#Contact)
 
 ***
-<h2 align="center">License</h2>
+<h3 align="center">License</h3>
 
 ***
 
 - See the [LICENSE](LICENSE) file for details.
 
 ***
-<h2 align="center">Contact</h2>
+<h3 align="center">Contact</h3>
 
 ***
 
