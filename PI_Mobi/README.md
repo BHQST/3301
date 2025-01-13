@@ -191,7 +191,7 @@ Substantiate your answers.
 
 <div align="center">
 
-**There is four primes, a lead up to the emails they senrt out.** 
+***"There is four primes, a lead up to the emails they sent out."*** 
 </div>
 
  - Here is the content of the emails solvers recieved after sending in the asnwers to test.
