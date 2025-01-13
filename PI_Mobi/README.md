@@ -46,6 +46,8 @@
 http://zvsacxv5yiepemnt.onion/xmXZAO
 
 ![Is the oak dead or alive](Assets/Oak.jpeg)
+
+![Seek](Assets/Qr_Code.png)
 ***
 <h4 align="center">Jan 5, 2016</h4>
 
