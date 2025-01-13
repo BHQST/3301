@@ -190,8 +190,8 @@ Substantiate your answers.
   - What do people strive for after completing their path to enlightenment?
 
 <div align="center">
-**There is four primes, a lead up to the emails they senrt out.** 
 
+**There is four primes, a lead up to the emails they senrt out.** 
 </div>
 
  - Here is the content of the emails solvers recieved after sending in the asnwers to test.
