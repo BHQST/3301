@@ -43,6 +43,8 @@
     - ἔνδον τοῦ πύργου, οὗ ὁ ἄνεμος ἐπιβουλεύει σὺν τὰ *****τοῦ/τῆϛ***** Çelebi πτερὰ, κεῖται πλίνθος ἣ ἐνέπει μῦθον, εὖτε ἡ θεωρία διαμένει. Ζητοὺ καὶ εὑρίσκου.
       - It is Greek. "Inside the tower, where the wind whispers with the wings of Çelebi, lies a brick that embodies myth, or theory resides. Seek and you will find."
 
+http://zvsacxv5yiepemnt.onion/xmXZAO
+
 ***
 <h4 align="center">Jan 5, 2016</h4>
 
