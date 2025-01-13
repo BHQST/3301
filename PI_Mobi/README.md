@@ -45,6 +45,7 @@
 
 http://zvsacxv5yiepemnt.onion/xmXZAO
 
+![Is the oak dead or alive](Solves/Oak.jpeg)
 ***
 <h4 align="center">Jan 5, 2016</h4>
 
