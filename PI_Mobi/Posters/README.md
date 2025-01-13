@@ -11,26 +11,26 @@
 </p>
 
 ***
-<h2 align="center">QR Code Posters/h2>
+<h2 align="center">QR Code Posters </h2>
 
 ***
 
 - These pictures are said to be from Chicago
 - Source: https://www.reddit.com/r/cicada/comments/3zjqs2/what_i_have_on_the_cicada_2016_thread_so_far/?rdt=57427
 
-![Posters](Posters/QRPoster1a.jpg)
-![Posters](Posters/QRPoster1b.jpg)
+![Posters](QRPoster1a.jpg)
+![Posters](QRPoster1b.jpg)
 
 - These pictures are said to be from Mill Rd, Eastbourne, East Sussex BN21 2PG, United Kingdom
 - Source: https://archive.4plebs.org/x/thread/17177900/
 
 
-![Posters](Posters/QRPoster2a.jpg)
-![Posters](Posters/QRPoster2b.jpg)
+![Posters](QRPoster2a.jpg)
+![Posters](QRPoster2b.jpg)
 
 - Image found with Google Image/Lens search
 
-![Posters](Posters/QRPoster3.jpg)
+![Posters](QRPoster3.jpg)
 
 
  
