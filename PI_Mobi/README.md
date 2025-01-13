@@ -38,6 +38,7 @@
 - http://31415926535897932384626433832795028841971693993751.mobi/BM2cSwMJ7SaEji4qU8plisEkVHuHCHhmZgwh.html
   - The BM code is also the same as 
   - Without :80 port there was **"322.png"** and page title was 322. Of a solver has this please upload to the github.
+  - https://youtu.be/p9msoJlE4xw?si=WoefTK80eSeFP16-
   - There was also some text in the source.
     - ἔνδον τοῦ πύργου, οὗ ὁ ἄνεμος ἐπιβουλεύει σὺν τὰ *****τοῦ/τῆϛ***** Çelebi πτερὰ, κεῖται πλίνθος ἣ ἐνέπει μῦθον, εὖτε ἡ θεωρία διαμένει. Ζητοὺ καὶ εὑρίσκου.
       - It is Greek. "Inside the tower, where the wind whispers with the wings of Çelebi, lies a brick that embodies myth, or theory resides. Seek and you will find."
