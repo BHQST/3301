@@ -189,7 +189,10 @@ Substantiate your answers.
 11. Zlsf ri ambhoi kffcgm sgu exfsl nwzhoiluba eprau tsfv nz madlkzfshxmal?
   - What do people strive for after completing their path to enlightenment?
 
+There is four primes, a lead up to the emails they snet out. 
+
 ***
+
 
  - Here is the content of the emails solvers recieved after sending in the asnwers to test.
 
