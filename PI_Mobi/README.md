@@ -66,10 +66,10 @@ https://www.youtube.com/watch?app=desktop&v=BVww3t5E60Q&t=42s
 <h4 align="center">Jan 5, 2016</h4>
 
 ***
-https://youtu.be/BzA_Le3Iq_w?si=bnbQhQyxC6WlC4cl
+- https://youtu.be/BzA_Le3Iq_w?si=bnbQhQyxC6WlC4cl
 
-<p>
-- O sorry earth, when this bleak bitter sleep
+  <p>
+  - O sorry earth, when this bleak bitter sleep
 Stirs and turns and time once more is green,
 In empty path and lane and grass will creep
 With none to tread it clean.
@@ -82,7 +82,7 @@ Good luck
 
 3301
 
-</p>
+  </p>
 
 - This was the start. Take notice of the user name. Also at the 33 second mark is a QR code.
 
