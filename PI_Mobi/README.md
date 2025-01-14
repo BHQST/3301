@@ -60,11 +60,13 @@ http://zvsacxv5yiepemnt.onion/xmXZAO
 
 ![Seek](Assets/Qr_Code.png)
 
+https://www.youtube.com/watch?app=desktop&v=BVww3t5E60Q&t=42s
+
 ***
 <h4 align="center">Jan 5, 2016</h4>
 
 ***
-- https://www.youtube.com/watch?app=desktop&v=BVww3t5E60Q&t=42s
+- https://youtu.be/BzA_Le3Iq_w?si=bnbQhQyxC6WlC4cl
     - This was the start. Take notice of the user name. Also at the 33 second mark is a QR code.
 
 ![314](Solves/314_qr.png)
