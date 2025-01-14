@@ -23,7 +23,7 @@
 
 - **Pi Mobi** was created before Z3301 aka richard todd miller's involvement with puzzle creation.
 
-- This branch will hold all of the pi.mobi puzzle assets and solves.
+- (https://youtu.be/MNiW94XQhWM?si=-6rZbLKcSGPLcyuP)
 
 - Are we paying attention yet? The main twitter on jan 05 2016 made this post. Pay attention to the time frame for proof of pi.mobi being 3301. https://x.com/1231507051321/status/684596461628223488?s=19
   - https://infotomb.com/4gq25.jpg
