@@ -52,6 +52,8 @@ Are we paying attention yet? The main twitter on jan 05 2016 made this post. Pay
 </p>
 
 - **This message was encrypted with playfair cipher with key of tyranny. Still on the french theme.**
+  **Chêne chapelle ou Chêne d'Allouville**
+![Is the oak dead or alive](Assets/Oak.jpeg)
 
 Not sure if the Bit message part is still live anymore for all the **"BM-"** codes.
 
@@ -64,9 +66,6 @@ Not sure if the Bit message part is still live anymore for all the **"BM-"** cod
       - It is Greek. "Inside the tower, where the wind whispers with the wings of Çelebi, lies a brick that embodies myth, or theory resides. Seek and you will find."
 
 (http://zvsacxv5yiepemnt.onion/xmXZAO)
-
-**Chêne chapelle ou Chêne d'Allouville**
-![Is the oak dead or alive](Assets/Oak.jpeg)
 
 ![Seek](Assets/Qr_Code.png)
 
