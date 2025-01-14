@@ -35,38 +35,38 @@
 
   - For the people that don't know how to install the old outguess, you can use https://www.aperisolve.com which seems to still work on old outguess files. the newer version of outguess will not work on outguess files made with older version.
 
-- http://31415926535897932384626433832795028841971693993751.mobi
+- (http://31415926535897932384626433832795028841971693993751.mobi)
 
-- http://31415926535897932384626433832795028841971693993751.mobi:80/BM2cSwMJ7SaEji4qU8plisEkVHuHCHhmZgwh.html
+- (http://31415926535897932384626433832795028841971693993751.mobi:80/BM2cSwMJ7SaEji4qU8plisEkVHuHCHhmZgwh.html)
 
-- https://www.youtube.com/watch?v=20zQdkZKMy4&feature=youtu.be
+- (https://www.youtube.com/watch?v=20zQdkZKMy4&feature=youtu.be)
 
--  http://31415926535897932384626433832795028841971693993751.mobi/3301.html
+-  (http://31415926535897932384626433832795028841971693993751.mobi/3301.html)
    - **This message was encrypted with playfair cipher with key of tyranny. Still on the french theme.**
 - Not sure if the Bit message part is still live anymore for all the **"BM-"** codes.
 
-- http://31415926535897932384626433832795028841971693993751.mobi/BM2cSwMJ7SaEji4qU8plisEkVHuHCHhmZgwh.html
+- (http://31415926535897932384626433832795028841971693993751.mobi/BM2cSwMJ7SaEji4qU8plisEkVHuHCHhmZgwh.html)
   - The BM code is also the same as 
   - Without :80 port there was **"322.png"** and page title was 322. Of a solver has this please upload to the github.
-  - https://youtu.be/p9msoJlE4xw?si=WoefTK80eSeFP16-
+  - (https://youtu.be/p9msoJlE4xw?si=WoefTK80eSeFP16-)
   - There was also some text in the source.
     - ἔνδον τοῦ πύργου, οὗ ὁ ἄνεμος ἐπιβουλεύει σὺν τὰ *****τοῦ/τῆϛ***** Çelebi πτερὰ, κεῖται πλίνθος ἣ ἐνέπει μῦθον, εὖτε ἡ θεωρία διαμένει. Ζητοὺ καὶ εὑρίσκου.
       - It is Greek. "Inside the tower, where the wind whispers with the wings of Çelebi, lies a brick that embodies myth, or theory resides. Seek and you will find."
 
-http://zvsacxv5yiepemnt.onion/xmXZAO
+(http://zvsacxv5yiepemnt.onion/xmXZAO)
 
 **Chêne chapelle ou Chêne d'Allouville**
 ![Is the oak dead or alive](Assets/Oak.jpeg)
 
 ![Seek](Assets/Qr_Code.png)
 
-https://www.youtube.com/watch?app=desktop&v=BVww3t5E60Q&t=42s
+(https://www.youtube.com/watch?app=desktop&v=BVww3t5E60Q&t=42s)
 
 ***
 <h4 align="center">Jan 5, 2016</h4>
 
 ***
-- https://youtu.be/BzA_Le3Iq_w?si=bnbQhQyxC6WlC4cl
+- (https://youtu.be/BzA_Le3Iq_w?si=bnbQhQyxC6WlC4cl)
 
   - This was in the description. 
     > O sorry earth, when this bleak bitter sleep
@@ -139,13 +139,13 @@ Their earth is but an echo of the spheres.
   - BM-2cUYDhBNPTmrwTErf5DfqrnXPfQyCZwrM6
     - This also was in 314 on youtube. its in the QR-code.
   - BM-2cSwMJ7SaEji4qU8plisEkVHuHCHhmZgwh
-    - Leads to this link. http://31415926535897932384626433832795028841971693993751.mobi:80/BM2cSwMJ7SaEji4qU8plisEkVHuHCHhmZgwh.html
+    - Leads to this link. (http://31415926535897932384626433832795028841971693993751.mobi:80/BM2cSwMJ7SaEji4qU8plisEkVHuHCHhmZgwh.html)
 ***
 <h4 align="center">Jun 26, 2016</h4>
 
 ***
  - The site changed and now displayed this ciphered message.
- - Hidden note within site source. **"Something ends, something begins. A date in history is the epoch of your journey. Eight numbers stand between you and the answers. Solve the test and you will be found."** There was also an onion link 	 http://ln6vyadk4hv3dnyt.onion/i/1amhajich.png
+ - Hidden note within site source. **"Something ends, something begins. A date in history is the epoch of your journey. Eight numbers stand between you and the answers. Solve the test and you will be found."** There was also an onion link 	 (http://ln6vyadk4hv3dnyt.onion/i/1amhajich.png)
      - I no longer have the original. Will show the image and the what was involved with hiding meta-data in jpg form till another seeker or solver shares original file. The picture is **"Portraits des impatiaux, des moderes, des moderateures, autre fois dits les aristocrates. (1789) A french revolutionary illustration showing the two faces of the aristocracy."** In english it translates to portraits of the impartials, the moderates, the moderators formaly known as the aristocrates. 
 ![1amhajich](Assets/1amhajich.jpg)
 
@@ -170,12 +170,12 @@ Wlwes lpjrdomggg mplvllsme gylt gzhq mb C Uywvfwiv ub ygmeddwluba npnaqw
 <h4 align="center">Jul 24, 2016</h4>
 
  ***
-  - http://31415926535897932384626433832795028841971693993751.mobi/3301
+  - (http://31415926535897932384626433832795028841971693993751.mobi/3301)
 	 title "seek"
     - The picture is in runes and also says SEEK like the title.
    ![Seek](Assets/seek.jpg)
 
-  - http://31415926535897932384626433832795028841971693993751.mobi/test.txt This was a test that you emailed the answers to the test to an email below.
+  - (http://31415926535897932384626433832795028841971693993751.mobi/test.txt) This was a test that you emailed the answers to the test to an email below.
 
 1. You're a treasure hunter and, along with your 9 companions, you just discovered  a buried chest with 100 silver coins inside. Amongst your crew there is a strict hierarchy (with you being the most important one) and there are no two equally important  people. You and your companions decided that you are going to propose the  way of distributing the treasure using aforementioned hierarchy. When someone makes his proposal , all of the treasure hunters ( including the proposing one) are voting whether  to accept it or decline it. If at least half of the treasure hunters  vote  "for" , the proposal is accepted and the treasure distributed but if the majority votes "against", the one ,who made the proposal , is killed off and the next one in the hierarchy has the right to make a proposal. The voting order is the same as the proposing order. The goal of each and everyone of the treasure hunters ( you included)  is to gain the highest amount of silver coins possible and survive. Every treasure hunter is equally as smart as the rest and votes in a way allowing him to achieve that goal but if said treasure hunter was to gain 0 silver coins , then he always votes "against".   You , as the most important one , make the first proposal.
 What way of distributing are you going to propose to achieve the goal?
