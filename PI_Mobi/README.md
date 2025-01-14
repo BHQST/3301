@@ -41,13 +41,14 @@ Are we paying attention yet? The main twitter on jan 05 2016 made this post. Pay
 
 (https://www.youtube.com/watch?v=20zQdkZKMy4&feature=youtu.be)
  (http://31415926535897932384626433832795028841971693993751.mobi/3301.html)
+
 - **This message was encrypted with playfair cipher with key of tyranny. Still on the french theme.**
 
 Not sure if the Bit message part is still live anymore for all the **"BM-"** codes.
 
-- (http://31415926535897932384626433832795028841971693993751.mobi/BM2cSwMJ7SaEji4qU8plisEkVHuHCHhmZgwh.html)
-  - The BM code is also the same as 
-  - Without :80 port there was **"322.png"** and page title was 322. Of a solver has this please upload to the github.
+(http://31415926535897932384626433832795028841971693993751.mobi/BM2cSwMJ7SaEji4qU8plisEkVHuHCHhmZgwh.html)
+- The BM code is also the same as 
+- Without :80 port there was **"322.png"** and page title was 322. Of a solver has this please upload to the github.
   - (https://youtu.be/p9msoJlE4xw?si=WoefTK80eSeFP16-)
   - There was also some text in the source.
     - ἔνδον τοῦ πύργου, οὗ ὁ ἄνεμος ἐπιβουλεύει σὺν τὰ *****τοῦ/τῆϛ***** Çelebi πτερὰ, κεῖται πλίνθος ἣ ἐνέπει μῦθον, εὖτε ἡ θεωρία διαμένει. Ζητοὺ καὶ εὑρίσκου.
