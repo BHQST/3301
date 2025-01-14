@@ -46,6 +46,7 @@ Are we paying attention yet? The main twitter on jan 05 2016 made this post. Pay
      <br>
      <br>
      ⸮bnυoʇ υoγ ɘɿA
+     - The top is greek and translates to **Bring murder**.
 
 (http://31415926535897932384626433832795028841971693993751.mobi/3301.html)
 </p>
