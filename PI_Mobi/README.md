@@ -41,8 +41,11 @@ Are we paying attention yet? The main twitter on jan 05 2016 made this post. Pay
 (http://31415926535897932384626433832795028841971693993751.mobi:80/BM2cSwMJ7SaEji4qU8plisEkVHuHCHhmZgwh.html)
 
 (https://www.youtube.com/watch?v=20zQdkZKMy4&feature=youtu.be) 
- - φέρειν φόνον
-   ⸮bnυoʇ υoγ ɘɿA
+ - In the Description is this below.
+   - φέρειν φόνον<br>
+     <br>
+     <br>
+     ⸮bnυoʇ υoγ ɘɿA
 
 (http://31415926535897932384626433832795028841971693993751.mobi/3301.html)
 </p>
