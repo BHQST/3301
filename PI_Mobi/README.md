@@ -67,7 +67,21 @@ https://www.youtube.com/watch?app=desktop&v=BVww3t5E60Q&t=42s
 
 ***
 - https://youtu.be/BzA_Le3Iq_w?si=bnbQhQyxC6WlC4cl
-    - This was the start. Take notice of the user name. Also at the 33 second mark is a QR code.
+  - 
+    O sorry earth, when this bleak bitter sleep
+Stirs and turns and time once more is green,
+In empty path and lane and grass will creep
+With none to tread it clean.
+http://31415926535897932384626433832795028841971693993751.mobi
+
+
+Seek and you will be found.
+
+Good luck
+
+3301
+
+- This was the start. Take notice of the user name. Also at the 33 second mark is a QR code.
 
 ![314](Solves/314_qr.png)
 
