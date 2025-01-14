@@ -35,12 +35,15 @@ Are we paying attention yet? The main twitter on jan 05 2016 made this post. Pay
 
   - For the people that don't know how to install the old outguess, you can use (https://www.aperisolve.com) which seems to still work on old outguess files. the newer version of outguess will not work on outguess files made with older version.
 
+<p>
 (http://31415926535897932384626433832795028841971693993751.mobi)
 
 (http://31415926535897932384626433832795028841971693993751.mobi:80/BM2cSwMJ7SaEji4qU8plisEkVHuHCHhmZgwh.html)
 
-(https://www.youtube.com/watch?v=20zQdkZKMy4&feature=youtu.be)
- (http://31415926535897932384626433832795028841971693993751.mobi/3301.html)
+(https://www.youtube.com/watch?v=20zQdkZKMy4&feature=youtu.be)   
+
+(http://31415926535897932384626433832795028841971693993751.mobi/3301.html)
+</p>
 
 - **This message was encrypted with playfair cipher with key of tyranny. Still on the french theme.**
 
