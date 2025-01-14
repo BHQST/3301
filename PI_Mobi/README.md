@@ -32,6 +32,8 @@
   ![Are you seeking?](Solves/4gq25_Hidden.jpg)
 
   - There was an outguess signed pgp message embedded into 4gq25.jpg. You can find the message in Solves under 4gq25.jpg_outguess.txt
+  - For the people that don't know how to install the old outguess, you can use https://www.aperisolve.com which seems to still work on old outguess files. the newer version of outguess will not work on outguess files made with older version.
+
 - http://31415926535897932384626433832795028841971693993751.mobi
 
 - http://31415926535897932384626433832795028841971693993751.mobi:80/BM2cSwMJ7SaEji4qU8plisEkVHuHCHhmZgwh.html
