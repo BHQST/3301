@@ -19,9 +19,9 @@
 
 ***
 
-- **Pi Mobi** was the last puzzle that used **PGP** elements in it.
+**Pi Mobi** was the last puzzle that used **PGP** elements in it.
 
-- **Pi Mobi** was created before Z3301 aka richard todd miller's involvement with puzzle creation.
+**Pi Mobi** was created before Z3301 aka richard todd miller's involvement with puzzle creation.
 
 - (https://youtu.be/MNiW94XQhWM?si=-6rZbLKcSGPLcyuP)
 
@@ -33,7 +33,7 @@
 
   - There was an outguess signed pgp message embedded into 4gq25.jpg. You can find the message in Solves under [`Solves`](https://github/BHQST/3301/Solves/4gq25.jpg_outguess.txt)
 
-  - For the people that don't know how to install the old outguess, you can use https://www.aperisolve.com which seems to still work on old outguess files. the newer version of outguess will not work on outguess files made with older version.
+  - For the people that don't know how to install the old outguess, you can use (https://www.aperisolve.com) which seems to still work on old outguess files. the newer version of outguess will not work on outguess files made with older version.
 
 - (http://31415926535897932384626433832795028841971693993751.mobi)
 
