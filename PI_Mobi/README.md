@@ -27,8 +27,7 @@
 
 - Are we paying attention yet? https://x.com/1231507051321/status/684596461628223488?s=19
   - https://infotomb.com/4gq25.jpg
-
-![Is it connecting?](Assets/4gq25.jpg)
+  ![Is it connecting?](Assets/4gq25.jpg)
 
 - http://31415926535897932384626433832795028841971693993751.mobi
 
