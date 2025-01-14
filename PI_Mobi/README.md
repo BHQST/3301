@@ -86,9 +86,7 @@ With none to tread it clean.
     >
     > 3301
 
-  
-
-- This was the start. Take notice of the user name. Also at the 33 second mark is a QR code.
+Take notice of the user name. Also at the 33 second mark is a QR code.
 
 ![314](Solves/314_qr.png)
 
