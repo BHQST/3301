@@ -111,8 +111,9 @@ Take notice of the user name. Also at the 33 second mark is a QR code.
   > Gen 1:1 In the beginning God created the heaven and the earth. 
   >
   > 31415926535897932384626433832795028841971693993751.MOBI 
+  >
   > BM-2cW5qm7K6R8xhoFXuK9ifNARQfeKNFTNQ9
-  <
+  >
   > BM-2cUYDhBNPTmrwTErf5DfqrnXPfQyCZwrM6
     - This was also on the picture Built from the hex code.
   > **EXTRACT YOURSELF FROM THE CONFINES OF YOUR COCOON, AND EMERGE, FALL AWAKE. OBSTRUCT INJUSTICE**
