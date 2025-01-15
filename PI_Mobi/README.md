@@ -278,6 +278,7 @@ Good luck
 - [ ] Locate the images from the dark web. Archive copys have been tampered with and are not original.
 - [ ] Write up the history stand-point of this puzzle.
 - [ ] Check if Bit Messege is still up.
+- [ ] Rework the dates correctly. Notes are everywhere but dates of pieces are imperative to it all. 
 ***
 <h3 align="center">Contribution</h3>
 
