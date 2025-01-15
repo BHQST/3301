@@ -40,6 +40,9 @@ Are we paying attention yet? The main twitter on jan 05 2016 made this post. Pay
 
 (http://31415926535897932384626433832795028841971693993751.mobi:80/BM2cSwMJ7SaEji4qU8plisEkVHuHCHhmZgwh.html)
 
+(31415926535897932384626433832795028841971693993751.mobi/BM2cSwMJ7SaEji4qU8p1isEkVHuHCHhmZgwh.html)
+ - Had an mp3 attached.
+
 (https://www.youtube.com/watch?v=20zQdkZKMy4&feature=youtu.be) 
  - In the Description is this below.
    - φέρειν φόνον<br>
