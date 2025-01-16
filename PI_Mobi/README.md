@@ -286,6 +286,13 @@ The keys are right in front of you
 Good luck
 
 ***
+<h3 align="center">Community</h3>
+
+***
+- There is a community board set up for users to discuss the ongoing project of Cicada puzzles.
+- Have ideas or questions? [Join the Discussion](https://github.com/BHQST/3301/discussions) to connect with others and share your thoughts!
+
+***
 <h3 align="center">Work List</h3>
 
 ***
