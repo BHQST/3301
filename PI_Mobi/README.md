@@ -65,6 +65,7 @@ Are we paying attention yet? The main twitter on jan 05 2016 made this post. Pay
 
  - ***Chêne chapelle ou Chêne d'Allouville***
  ![Is the oak dead or alive](Assets/Oak.jpeg)
+  > During the French Revolution, the tree became an emblem of the old system of governance and tyranny as well as the church that aided and abetted it: a crowd descended upon the village, intent on burning the tree to the ground. However, a local whose name is lost renamed the oak the "Temple of Reason" and as such it became a symbol of the new ways of thinking and was spared
 
 Not sure if the Bit message part is still live anymore for all the **"BM-"** codes.
 
