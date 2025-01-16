@@ -58,7 +58,10 @@ Are we paying attention yet? The main twitter on jan 05 2016 made this post. Pay
   wdgpfq naf qyeadf<br>
   pfab wo nmva nfzxdnp
 
-    - **This message was encrypted with playfair cipher with key of TYRANNY**. Due to the mechanics of the playfair cipher the key would be "TYRAN" do to no repeats in the 5x5 square. 
+    - **This message was encrypted with playfair cipher with key of TYRANNY**. Due to the mechanics of the playfair cipher the key would be "TYRAN" do to no repeats in the 5x5 square.
+    > IS THE OAK REALLY DEAD
+    > PRIMES ARE SACRED
+    > SEND US YOUR ANSWERS
 
  - ***Chêne chapelle ou Chêne d'Allouville***
  ![Is the oak dead or alive](Assets/Oak.jpeg)
