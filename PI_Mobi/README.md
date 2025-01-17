@@ -156,7 +156,8 @@ Their earth is but an echo of the spheres.
     - This displays a big chunk of hex code that reverts back to a .png. The hint was the title of the page LesTriosMages.png a refference to the 3 mages. The raw data can be found in [`Assets`](https://github/BHQST/3301/Assets/LesTriosMages.txt) for followers looking to learn a skill. You can also go directly to the image [`hex.png`](Solves/hex.png). 
 
 ![LesTriosMages](Solves/hex.png)
- 
+  - This is located on **"Monumento a Giordano Bruno"**. There was also a poster located on the statue.
+  
   - http://popfilesxuru7lsr.onion/~C3301/despierta.mp4
     - My archive copy is corrupted. If any solvers have this please contribute to this github.
   - BM-2cUYDhBNPTmrwTErf5DfqrnXPfQyCZwrM6
