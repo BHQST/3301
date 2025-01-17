@@ -156,7 +156,7 @@ Their earth is but an echo of the spheres.
     - This displays a big chunk of hex code that reverts back to a .png. The hint was the title of the page LesTriosMages.png a refference to the 3 mages. The raw data can be found in [`Assets`](https://github/BHQST/3301/Assets/LesTriosMages.txt) for followers looking to learn a skill. You can also go directly to the image [`hex.png`](Solves/hex.png). 
 
 ![LesTriosMages](Solves/hex.png)
-  - This is located on **"Monumento a Giordano Bruno"**. This statue was erected in the same exact location as whete bruno was burned at the stake. There was also a poster located on the statue, See below.
+  - This is located on **"Monumento a Giordano Bruno"**. This statue was erected in the same exact location as where bruno was burned at the stake. There was also a poster located on the statue, See below.
   - ![Poster](Posters/Cicada-4Chan1-1024x1024.jpg)
   
   - http://popfilesxuru7lsr.onion/~C3301/despierta.mp4
