@@ -1,4 +1,4 @@
-I will work on password explonations and bring over into this readme in due time.
+I will work on password explanations and bring over into this readme in due time.
 
 ***
 There is a total of 13 keys. 
@@ -22,4 +22,5 @@ W slpit into 2 is VV 2 being a prime.
 -SpaceBetween
 -Matthias
 -inferno
+
 ***
