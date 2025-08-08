@@ -9,18 +9,19 @@ M can mirror W which could explain the fivefie password.
 W slpit into 2 is VV 2 being a prime. 
 
 #### Passwords ####
--Brendelia
--CallingMarie
--fivefive
--Prey
--rebirth
--starynight
--Thoin761
--thomas
--kingArthur 
--saintgermain
--SpaceBetween
--Matthias
--inferno
+    -Brendelia
+    -CallingMarie
+    -fivefive
+    -Prey
+    -rebirth
+    -starynight
+    -Thoin761
+    -thomas
+    -kingArthur 
+    -saintgermain
+    -SpaceBetween
+    -Matthias
+    -inferno
 
 ***
+
